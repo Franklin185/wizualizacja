@@ -72,8 +72,8 @@ a {
 }
 
 .chapter-container img {
-  height: 483px;
-  width: 270px;
+  height: auto;
+  width: auto;
   max-height: 100%;
   max-width: 100%;
   margin-left: auto;

@@ -121,7 +121,8 @@ a.source:visited {
   margin: 10px;
   text-align: justify;
   font-size: 11pt;
-  padding: 15px;
+  padding-top: 25px;
+  padding-bottom: 10px;
 }
 
 .in-focus {
